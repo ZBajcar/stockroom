@@ -1,4 +1,4 @@
-# Shopping Cart App
+# Stockroom
 
 ## Setup
 
